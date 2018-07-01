@@ -11,6 +11,7 @@ package sist.dao;
  */
 public class ConnectionFactory {
 
+    // Primeira alteração
     public ConnectionFactory() {
 
     }

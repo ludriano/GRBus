@@ -5,14 +5,19 @@
  */
 package sist.dao;
 
+import java.sql.Connection;
+
 /**
  *
  * @author LUDRIANO
  */
 public class ConnectionFactory {
 
+    private Connection conn;
+
     // Primeira alteração
     public ConnectionFactory() {
 
     }
+
 }
